@@ -18,7 +18,7 @@
 - **[Zest Group](https://zestlatam.com)** — Sitio corporativo para plataforma de inversiones globales (Vue.js)
 - **[ReferiCore](https://www.corecapital.com.pe/refericore/)** — Programa de referidos para Core Capital SAFI (Vue.js)
 - **[Bloom Tower](https://www.bloomtower.com.pe)** — Landing de proyecto inmobiliario (Vue.js)
-- **[landing-vadimar](https://github.com/mendozaDeveloper/landing-vadimar)** — Landing page corporativa (Vue 3 + Vite)
+- **[Vadimar](https://github.com/mendozaDeveloper/landing-vadimar)** — Landing page corporativa (Vue 3 + Vite)
 
 ### 📚 Aprendiendo actualmente
 - Desarrollo con IA y Agentes (BIG School)
